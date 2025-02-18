@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <p align="left">
 <a href="https://github.com/penuliscode">
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mkeyzxi&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
+-->
