@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Muhammad Makbul N (mkeyzxi)  
 
-I'm a **Junior Web Developer** passionate about building modern and efficient web applications. I enjoy learning new technologies and improving my coding skills to create user-friendly and scalable solutions.  
+I'm a **Junior Web Developer** I am currently studying in South Sulawesi, the campus of the Alauddin State Islamic University, Makassar, class of 2022, majoring in Informatics Engineering. Passionate about building modern and efficient web applications. I enjoy learning new technologies and improving my coding skills to create user-friendly and scalable solutions.  
 
 ## 🔗 Connect with Me  
 - **LinkedIn**: [Muhammad Makbul N](https://www.linkedin.com/in/makbul-n-ab30a4280/)  
