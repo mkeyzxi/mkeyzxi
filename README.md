@@ -8,7 +8,5 @@ I explore not only web development but also the fundamentals of other programmin
 ## 🔗 Connect with Me  
 - **LinkedIn**: [Muhammad Makbul N](https://www.linkedin.com/in/makbul-n-ab30a4280/)  
 - **Instagram**: [@mkeyzxi](https://www.instagram.com/mkeyzxi/?hl=en)  
-- **GitHub**: [Mkeyzxi](https://github.com/Mkeyzxi)  
-- **WhatsApp**: [+62 853 4218 1132](https://wa.me/6285342181132)  
 
 I'm always open to collaboration and exciting projects. Let's connect and build something awesome together! 🚀  
