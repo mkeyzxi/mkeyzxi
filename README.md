@@ -7,14 +7,15 @@ I explore not only web development but also the fundamentals of other programmin
 
 ## 🔗 Connect with Me  
 - **LinkedIn**: [Muhammad Makbul N](https://www.linkedin.com/in/makbul-n-ab30a4280/)  
-- **Instagram**: [@mkeyzxi](https://www.instagram.com/mkeyzxi/?hl=en)  
+- **Instagram**: [@mkeyzxi](https://www.instagram.com/mkeyzxi/?hl=en)
+  
 
 I'm always open to collaboration and exciting projects. Let's connect and build something awesome together! 🚀  
 
-###
+<!-- ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
