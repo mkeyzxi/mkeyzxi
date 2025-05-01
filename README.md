@@ -65,10 +65,10 @@ I'm always open to collaboration and exciting projects. Let's connect and build 
 
 ###
 
-### -->
+### 
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+###-->
