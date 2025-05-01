@@ -10,3 +10,5 @@ I explore not only web development but also the fundamentals of other programmin
 - **Instagram**: [@mkeyzxi](https://www.instagram.com/mkeyzxi/?hl=en)  
 
 I'm always open to collaboration and exciting projects. Let's connect and build something awesome together! 🚀  
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
