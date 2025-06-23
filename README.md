@@ -6,9 +6,13 @@ I'm a **Junior Web Developer** based in South Sulawesi, currently studying Infor
 I explore not only web development but also the fundamentals of other programming languages like C++, Kotlin, and Python. Additionally, I'm diving into fields such as **IoT (Internet of Things)** and **AI (Artificial Intelligence)**, where I experiment with various projects and technologies. I am also like about **Proxmox**, **Ubuntu Server**, **Virtual Machines**, and using **remote server tools** like **PuTTY** to access and manage remote servers securely.
 
 ## 🔗 Connect with Me  
+**LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makbul-n-ab30a4280/)
+**Instagram:** [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mkeyzxi/?hl=en)
+<!--**Portofolio:** [![Website Badge](https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=About.me&logoColor=white)]([Tautan ke website portofolio pribadimu atau platform lain seperti CodePen, Dribbble, dsb.])
+
 - **LinkedIn**: [Muhammad Makbul N](https://www.linkedin.com/in/makbul-n-ab30a4280/)  
 - **Instagram**: [@mkeyzxi](https://www.instagram.com/mkeyzxi/?hl=en)
-  
+-->  
 
 I'm always open to collaboration and exciting projects. Let's connect and build something awesome together! 🚀  
 
