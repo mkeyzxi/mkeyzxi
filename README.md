@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>2020 — dan terus belajar memperbaiki setiap baris kodenya 😄<br><br>📚 I'm currently learning ...<br>Web Development (React, TypeScript), IoT dengan ESP32-CAM, AI dasar, serta eksplorasi Proxmox, Ubuntu Server, dan Virtual Machines.<br><br>🎯 Goals: Menjadi Full-Stack Web Developer yang solid, Membangun proyek IoT + AI yang terintegrasi dengan web, Mengembangkan aplikasi yang modern, responsif, dan scalable,Terus belajar teknologi backend & server management<br><br>🎲 Fun fact: Saya bisa betah ngulik laptop berjam-jam tanpa sadar waktu asal ada kopi dan error yang menantang 😆</p>
+<p align="left">✨ Creating bugs since ...<br>2020 - dan terus belajar memperbaiki setiap baris kodenya 😄<br><br>📚 I'm currently learning ...<br>Web Development (React, TypeScript), IoT dengan ESP32-CAM, AI dasar, serta eksplorasi Proxmox, Ubuntu Server, dan Virtual Machines.<br><br>🎯 Goals: Menjadi Full-Stack Web Developer yang solid, Membangun proyek IoT + AI yang terintegrasi dengan web, Mengembangkan aplikasi yang modern, responsif, dan scalable,Terus belajar teknologi backend & server management<br><br>🎲 Fun fact: Saya bisa betah ngulik laptop berjam-jam tanpa sadar waktu asal ada kopi dan error yang menantang 😆</p>
 
 ###
 
