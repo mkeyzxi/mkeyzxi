@@ -22,7 +22,7 @@ Full Stack Web Developer (S.Kom)[cite: 1] yang berfokus pada arsitektur scalable
   </li>
   <br>
   <li>
-    <strong>Tech Lead - GDG On Campus UINAM:</strong> Memimpin pengembangan arsitektur website modular (TypeScript) dengan integrasi Firebase Auth & Firestore, menghasilkan sistem manajemen data real-time yang mudah di-maintain.
+    <strong>Tech Web Lead - GDG On Campus UINAM:</strong> Memimpin pengembangan arsitektur website modular (TypeScript) dengan integrasi Firebase Auth & Firestore, menghasilkan sistem manajemen data real-time yang mudah di-maintain.
   </li>
   <br>
   <li>
