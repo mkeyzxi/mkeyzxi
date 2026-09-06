@@ -1,7 +1,4 @@
 <h1 align="left">Hi 👋, I'm Muhammad Makbul N</h1>
-
-###
-
 <h2 align="left">Full Stack Developer & AI Integration</h2>
 
 ###
