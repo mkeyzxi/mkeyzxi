@@ -68,13 +68,8 @@ Digital photobooth berbasis PWA dengan dukungan **offline mode** dan Camera API.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,python,react,nextjs,vue,tailwind,laravel,fastapi,mysql,postgres,firebase,supabase,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,react,nextjs,vue,tailwind,laravel,fastapi,mysql,postgres,firebase,supabase,git,github,gemini" alt="Tech Stack" />
 </p>
-
-<p align="center">
-  <strong>AI:</strong> LangChain · Gemini API · RAG · HyDE · ChromaDB
-</p>
-
 ---
 
 ## 💼 Experience
