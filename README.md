@@ -97,10 +97,6 @@ Offline-ready photobooth web application with interactive experiences.
   <img src="https://skillicons.dev/icons?i=python,postgres,firebase,supabase" alt="AI and Data" />
 </p>
 
-<p>
-  <strong>AI:</strong> LangChain · Gemini API · RAG · HyDE · ChromaDB
-</p>
-
 ---
 
 ## 👨‍💻 Experience
