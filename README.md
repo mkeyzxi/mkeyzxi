@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Makbul N</h1>
 
 <h3 align="center">
-  Software Developer · Web Engineering · AI Integration
+  Full Stack Web Developer · AI Integration
 </h3>
 
 <p align="center">
-  Building scalable web applications and integrating AI into practical software solutions.
+  Building scalable web applications, enterprise systems, and AI-powered solutions.
 </p>
 
 <p align="center">
@@ -19,95 +19,83 @@
 
 ---
 
-## 🚀 What I Do
+## 👨‍💻 About Me
 
-- Develop **scalable web applications** and modular software architectures.
-- Build **REST APIs** and backend services for production-oriented systems.
-- Integrate **AI, RAG, semantic search, and LLM-based solutions** into applications.
-- Focus on **performance, maintainability, and clean architecture**.
-- Lead and collaborate with teams to deliver practical software solutions.
+Full Stack Web Developer dan Sarjana Teknik Informatika dengan pengalaman membangun **web applications, enterprise information systems, RESTful APIs, dan AI-powered solutions**.
+
+Fokus pada pengembangan software yang **scalable, responsive, maintainable**, serta integrasi teknologi AI seperti **LLM, RAG, HyDE, dan semantic search**.
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
-### 🔎 AI Academic Search Engine
+### 🔎 AI-Powered Academic Search Engine
 
-**FastAPI · LangChain · ChromaDB · RAG · HyDE**
+**Python · FastAPI · LangChain · ChromaDB · Vue 3 · Vite**
 
-Semantic search engine for academic thesis titles and abstracts.
+AI-powered search engine untuk pencarian judul dan abstrak skripsi.
 
-- **615** indexed documents
-- **96.28%** retrieval accuracy
-- **~17.6 ms** average latency
-- REST API architecture for AI-powered search
+- **615** dokumen terindeks
+- Evaluasi menggunakan **50 benchmark queries**
+- **HyDE:** Avg. Top-1 Score **96.28**
+- **Standard RAG:** latency **~17.6 ms**
+- Semantic search dengan embedding pipeline dan RESTful API
 
-### 🏢 Enterprise ERP — PRISAY-PDP
+### 🏢 PRISAY-PDP — Enterprise Information System
 
-**Laravel 12 · Livewire · MySQL · RBAC**
+**PHP · Laravel 12 · Livewire · Tailwind CSS · MySQL**
 
-Enterprise system for logistics and accounting workflows.
+Enterprise system yang mengintegrasikan proses bisnis **Logistik, Konstruksi, dan Akuntansi**.
 
-- Multi-level **Role-Based Access Control**
-- SAP data import/export automation
-- Modular Laravel architecture
-- Designed for maintainability and operational efficiency
+- **4 role** dengan Role-Based Access Control
+- Otomatisasi **SAP Excel import/export**
+- Responsive interface dengan Livewire & Tailwind CSS
+- Modular architecture untuk maintainability
 
-### 🌐 GDG On Campus UINAM
+### 📸 PolaroWeb — Progressive Web App
 
-**TypeScript · Firebase · Firestore**
+**React · TypeScript · Tailwind CSS · GSAP · Three.js**
 
-Led web development and architectural implementation for the organization website.
+Digital photobooth berbasis PWA dengan dukungan **offline mode** dan Camera API.
 
-- Modular frontend architecture
-- Firebase Authentication
-- Real-time Firestore data management
-- Collaborative team development
-
-### 📸 PolaroWeb
-
-**React · PWA · GSAP · Three.js**
-
-Offline-ready photobooth web application with interactive experiences.
-
-- Progressive Web App
-- Offline-first capabilities
-- Interactive 3D elements
-- **Lighthouse Score >95**
+- HTML Canvas API untuk image processing
+- Interactive experience dengan GSAP & Three.js
+- **Lighthouse Performance Score >95**
+- Memenuhi standar Accessibility, Best Practices, dan SEO
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,php,python,mysql" alt="Languages" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,react,nextjs,vue,tailwind,laravel,fastapi,mysql,postgres,firebase,supabase,git,github" alt="Tech Stack" />
 </p>
 
-### Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,laravel,fastapi" alt="Web Development" />
-</p>
-
-### AI & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,firebase,supabase" alt="AI and Data" />
+<p align="center">
+  <strong>AI:</strong> LangChain · Gemini API · RAG · HyDE · ChromaDB
 </p>
 
 ---
 
-## 👨‍💻 Experience
+## 💼 Experience
 
-**Tech Web Lead — GDG On Campus UINAM**
+**Core Team Tech / Lead Web Developer — GDG On Campus UINAM**  
+Leading web development using TypeScript with modular architecture, Firebase Authentication, and Cloud Firestore.
 
-Leading web development, architecture, and team collaboration.
+**Web Developer Intern — PT. Galesong Pratama**  
+Developed internal financial system modules using Laravel, including Accounts Payable and Accounts Receivable, with responsive interfaces using Tailwind CSS.
 
-**Laboratory Assistant — Web & Algorithms**
+**Laboratory Assistant / Teaching Assistant — UIN Alauddin Makassar**  
+Mentored **84+ students** in Web Programming I and Algorithms & Programming, including web development with HTML, CSS, JavaScript, PHP, and MySQL.
 
-Mentoring and reviewing programming implementations from **84+ students**.
+---
+
+## 📜 Certifications
+
+- **Associate Data Scientist — BNSP**
+- **Junior Web Developer — BNSP**
+- **Front-End & Back-End Developer — Coding Camp by DBS Foundation & Dicoding**
+- **LLM-Based Tools & Gemini API Integration — Hacktiv8 & Google.org**
 
 ---
 
@@ -117,6 +105,9 @@ Mentoring and reviewing programming implementations from **84+ students**.
   <a href="https://www.linkedin.com/in/muhammad-makbul-n-ab30a4280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://makbuln.web.id" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://x.com/GuardianMmn" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
@@ -124,7 +115,7 @@ Mentoring and reviewing programming implementations from **84+ students**.
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.instagram.com/mkeyzxi/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
