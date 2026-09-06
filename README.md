@@ -2,49 +2,39 @@
 
 ###
 
-<h2 align="left">Full Stack Web Developer & AI Enthusiast</h2>
+<h2 align="left">Full Stack Developer & AI Integration</h2>
 
 ###
 
 <p align="left">
-Saya adalah Full Stack Web Developer (S.Kom, UIN Alauddin Makassar) yang berfokus pada pengembangan aplikasi web terstruktur, scalable, dan integrasi Artificial Intelligence (LLM/RAG). Saya memiliki pengalaman dalam membangun sistem enterprise berbasis Role-Based Access Control (RBAC), Progressive Web Apps (PWA), serta memimpin tim pengembangan web komunitas.
+Full Stack Web Developer (S.Kom)[cite: 1] yang berfokus pada arsitektur scalable, sistem enterprise, dan integrasi Artificial Intelligence. Berpengalaman memimpin tim web dan membangun solusi dengan optimasi performa tinggi.
 </p>
 
 ###
 
-<h2 align="left">🚀 Experience & Featured Projects (STAR Approach)</h2>
+<h2 align="left">🚀 High-Impact Projects & Experience</h2>
 
 ###
 
 <ul>
   <li>
-    <strong>AI-Powered Academic Search Engine</strong><br>
-    <em>Action:</em> Mengembangkan RESTful API asinkron menggunakan Python (FastAPI), LangChain, dan ChromaDB untuk mengimplementasikan semantic search berbasis Retrieval-Augmented Generation (RAG) dan HyDE.<br>
-    <em>Result:</em> Berhasil mengindeks 615 dokumen skripsi dengan performa retrieval tinggi (Avg Score Top-1: 96,28) dan latensi pencarian real-time yang rendah (±17,6 ms).
+    <strong>AI-Powered Academic Search Engine:</strong> Membangun REST API (FastAPI, LangChain, ChromaDB) untuk semantic search berbasis RAG/HyDE; berhasil mengindeks 615 dokumen dengan skor akurasi retrieval 96,28 dan latensi rendah ±17,6 ms[cite: 1].
   </li>
   <br>
   <li>
-    <strong>Tech Lead / Core Web Developer - GDG On Campus UINAM</strong><br>
-    <em>Action:</em> Memimpin pengembangan website resmi komunitas menggunakan TypeScript dengan arsitektur komponen modular dan integrasi Firebase (Auth & Cloud Firestore).<br>
-    <em>Result:</em> Menghasilkan platform manajemen data kegiatan secara real-time yang terstruktur dan mudah di-maintain oleh tim.
+    <strong>Tech Lead - GDG On Campus UINAM:</strong> Memimpin pengembangan arsitektur website modular (TypeScript) dengan integrasi Firebase Auth & Firestore, menghasilkan sistem manajemen data real-time yang mudah di-maintain[cite: 1].
   </li>
   <br>
   <li>
-    <strong>Enterprise Information System (PRISAY-PDP)</strong><br>
-    <em>Action:</em> Membangun sistem ERP menggunakan Laravel 12, Livewire, dan MySQL untuk mengintegrasikan proses bisnis Logistik, Konstruksi, dan Akuntansi.<br>
-    <em>Result:</em> Mengimplementasikan 4 role pengguna (RBAC) dan otomatisasi impor/ekspor data SAP berbasis Excel, meningkatkan efisiensi operasional sistem.
+    <strong>Enterprise ERP (PRISAY-PDP):</strong> Mengembangkan sistem integrasi Logistik & Akuntansi (Laravel 12, Livewire, MySQL) dengan 4 tingkat role RBAC dan fitur otomatisasi impor/ekspor data SAP[cite: 1].
   </li>
   <br>
   <li>
-    <strong>Asisten Laboratorium Pemrograman Web & Algoritma</strong><br>
-    <em>Action:</em> Membimbing dan melakukan evaluasi kode teknis (HTML, CSS, PHP, MySQL).<br>
-    <em>Result:</em> Membantu 84+ mahasiswa meningkatkan kualitas implementasi program sesuai standar kompetensi BNSP Junior Web Developer.
+    <strong>PolaroWeb (PWA):</strong> Membangun aplikasi photobooth offline-ready (React, GSAP, Three.js) dengan optimasi performa mencapai Google Lighthouse Score >95[cite: 1].
   </li>
   <br>
   <li>
-    <strong>PolaroWeb (Progressive Web App)</strong><br>
-    <em>Action:</em> Mengembangkan aplikasi digital photobooth menggunakan React, HTML Canvas API, GSAP, dan Three.js dengan dukungan offline.<br>
-    <em>Result:</em> Mengoptimalkan performa aplikasi hingga mencapai Google Lighthouse Performance Score >95.
+    <strong>Asisten Laboratorium Web & Algoritma:</strong> Membimbing dan meninjau implementasi kode 84+ mahasiswa untuk mencapai standar kompetensi BNSP Junior Web Developer[cite: 1].
   </li>
 </ul>
 
@@ -55,10 +45,9 @@ Saya adalah Full Stack Web Developer (S.Kom, UIN Alauddin Makassar) yang berfoku
 ###
 
 <p align="left">
+  <strong>Stack:</strong> React, Next.js, Vue, Tailwind, Laravel, FastAPI <br>
   <strong>Languages:</strong> TypeScript, JavaScript, PHP, Python, SQL <br>
-  <strong>Frontend:</strong> React.js, Next.js, Vue.js, Tailwind CSS, Vite, GSAP <br>
-  <strong>Backend:</strong> Laravel, Livewire, FastAPI <br>
-  <strong>AI/Data:</strong> LangChain, Gemini API, RAG, ChromaDB <br>
+  <strong>AI & Data:</strong> LangChain, Gemini API, RAG, ChromaDB <br>
   <strong>Databases:</strong> MySQL, PostgreSQL, Firebase, Supabase
 </p>
 
