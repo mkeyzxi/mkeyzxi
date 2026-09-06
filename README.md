@@ -1,16 +1,66 @@
-<h1 align="left">Hi 👋, I'm Muhammad Makbul N (mkeyzxi)</h1>
+<h1 align="left">Hi 👋, I'm Muhammad Makbul N</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Full Stack Web Developer & AI Enthusiast</h2>
 
 ###
 
-<p align="left">I'm a Junior Web Developer based in South Sulawesi, currently studying Informatics Engineering at the Alauddin State Islamic University, Makassar (Class of 2022). I'm passionate about technology and always eager to learn new tools and frameworks. I enjoy building modern, efficient, and scalable web applications and am constantly improving my coding skills to deliver user-friendly solutions.</p>
+<p align="left">
+Saya adalah Full Stack Web Developer (S.Kom, UIN Alauddin Makassar) yang berfokus pada pengembangan aplikasi web terstruktur, scalable, dan integrasi Artificial Intelligence (LLM/RAG). Saya memiliki pengalaman dalam membangun sistem enterprise berbasis Role-Based Access Control (RBAC), Progressive Web Apps (PWA), serta memimpin tim pengembangan web komunitas.
+</p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>2020 - dan terus belajar memperbaiki setiap baris kodenya 😄<br><br>📚 I'm currently learning ...<br>Web Development (React, TypeScript), IoT dengan ESP32-CAM, AI dasar, serta eksplorasi Proxmox, Ubuntu Server, dan Virtual Machines.<br><br>🎯 Goals: Menjadi Full-Stack Web Developer yang solid, Membangun proyek IoT + AI yang terintegrasi dengan web, Mengembangkan aplikasi yang modern, responsif, dan scalable,Terus belajar teknologi backend & server management<br><br>🎲 Fun fact: Saya bisa betah ngulik laptop berjam-jam tanpa sadar waktu asal ada kopi dan error yang menantang 😆</p>
+<h2 align="left">🚀 Experience & Featured Projects (STAR Approach)</h2>
+
+###
+
+<ul>
+  <li>
+    <strong>AI-Powered Academic Search Engine</strong><br>
+    <em>Action:</em> Mengembangkan RESTful API asinkron menggunakan Python (FastAPI), LangChain, dan ChromaDB untuk mengimplementasikan semantic search berbasis Retrieval-Augmented Generation (RAG) dan HyDE.<br>
+    <em>Result:</em> Berhasil mengindeks 615 dokumen skripsi dengan performa retrieval tinggi (Avg Score Top-1: 96,28) dan latensi pencarian real-time yang rendah (±17,6 ms).
+  </li>
+  <br>
+  <li>
+    <strong>Tech Lead / Core Web Developer - GDG On Campus UINAM</strong><br>
+    <em>Action:</em> Memimpin pengembangan website resmi komunitas menggunakan TypeScript dengan arsitektur komponen modular dan integrasi Firebase (Auth & Cloud Firestore).<br>
+    <em>Result:</em> Menghasilkan platform manajemen data kegiatan secara real-time yang terstruktur dan mudah di-maintain oleh tim.
+  </li>
+  <br>
+  <li>
+    <strong>Enterprise Information System (PRISAY-PDP)</strong><br>
+    <em>Action:</em> Membangun sistem ERP menggunakan Laravel 12, Livewire, dan MySQL untuk mengintegrasikan proses bisnis Logistik, Konstruksi, dan Akuntansi.<br>
+    <em>Result:</em> Mengimplementasikan 4 role pengguna (RBAC) dan otomatisasi impor/ekspor data SAP berbasis Excel, meningkatkan efisiensi operasional sistem.
+  </li>
+  <br>
+  <li>
+    <strong>Asisten Laboratorium Pemrograman Web & Algoritma</strong><br>
+    <em>Action:</em> Membimbing dan melakukan evaluasi kode teknis (HTML, CSS, PHP, MySQL).<br>
+    <em>Result:</em> Membantu 84+ mahasiswa meningkatkan kualitas implementasi program sesuai standar kompetensi BNSP Junior Web Developer.
+  </li>
+  <br>
+  <li>
+    <strong>PolaroWeb (Progressive Web App)</strong><br>
+    <em>Action:</em> Mengembangkan aplikasi digital photobooth menggunakan React, HTML Canvas API, GSAP, dan Three.js dengan dukungan offline.<br>
+    <em>Result:</em> Mengoptimalkan performa aplikasi hingga mencapai Google Lighthouse Performance Score >95.
+  </li>
+</ul>
+
+###
+
+<h2 align="left">🛠️ Tech Stack</h2>
+
+###
+
+<p align="left">
+  <strong>Languages:</strong> TypeScript, JavaScript, PHP, Python, SQL <br>
+  <strong>Frontend:</strong> React.js, Next.js, Vue.js, Tailwind CSS, Vite, GSAP <br>
+  <strong>Backend:</strong> Laravel, Livewire, FastAPI <br>
+  <strong>AI/Data:</strong> LangChain, Gemini API, RAG, ChromaDB <br>
+  <strong>Databases:</strong> MySQL, PostgreSQL, Firebase, Supabase
+</p>
 
 ###
 
@@ -40,5 +90,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkeyzxi/mkeyzxi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mkeyzxi/mkeyzxi/output/pacman-contribution-graph.svg">
 </picture>
-
-###
