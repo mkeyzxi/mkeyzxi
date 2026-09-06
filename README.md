@@ -18,23 +18,23 @@ Full Stack Web Developer (S.Kom)[cite: 1] yang berfokus pada arsitektur scalable
 
 <ul>
   <li>
-    <strong>AI-Powered Academic Search Engine:</strong> Membangun REST API (FastAPI, LangChain, ChromaDB) untuk semantic search berbasis RAG/HyDE; berhasil mengindeks 615 dokumen dengan skor akurasi retrieval 96,28 dan latensi rendah ±17,6 ms[cite: 1].
+    <strong>AI-Powered Academic Search Engine:</strong> Membangun REST API (FastAPI, LangChain, ChromaDB) untuk semantic search berbasis RAG/HyDE; berhasil mengindeks 615 dokumen dengan skor akurasi retrieval 96,28 dan latensi rendah ±17,6 ms.
   </li>
   <br>
   <li>
-    <strong>Tech Lead - GDG On Campus UINAM:</strong> Memimpin pengembangan arsitektur website modular (TypeScript) dengan integrasi Firebase Auth & Firestore, menghasilkan sistem manajemen data real-time yang mudah di-maintain[cite: 1].
+    <strong>Tech Lead - GDG On Campus UINAM:</strong> Memimpin pengembangan arsitektur website modular (TypeScript) dengan integrasi Firebase Auth & Firestore, menghasilkan sistem manajemen data real-time yang mudah di-maintain.
   </li>
   <br>
   <li>
-    <strong>Enterprise ERP (PRISAY-PDP):</strong> Mengembangkan sistem integrasi Logistik & Akuntansi (Laravel 12, Livewire, MySQL) dengan 4 tingkat role RBAC dan fitur otomatisasi impor/ekspor data SAP[cite: 1].
+    <strong>Enterprise ERP (PRISAY-PDP):</strong> Mengembangkan sistem integrasi Logistik & Akuntansi (Laravel 12, Livewire, MySQL) dengan 4 tingkat role RBAC dan fitur otomatisasi impor/ekspor data SAP.
   </li>
   <br>
   <li>
-    <strong>PolaroWeb (PWA):</strong> Membangun aplikasi photobooth offline-ready (React, GSAP, Three.js) dengan optimasi performa mencapai Google Lighthouse Score >95[cite: 1].
+    <strong>PolaroWeb (PWA):</strong> Membangun aplikasi photobooth offline-ready (React, GSAP, Three.js) dengan optimasi performa mencapai Google Lighthouse Score >95.
   </li>
   <br>
   <li>
-    <strong>Asisten Laboratorium Web & Algoritma:</strong> Membimbing dan meninjau implementasi kode 84+ mahasiswa untuk mencapai standar kompetensi BNSP Junior Web Developer[cite: 1].
+    <strong>Asisten Laboratorium Web & Algoritma:</strong> Membimbing dan meninjau implementasi kode 84+ mahasiswa untuk mencapai standar kompetensi BNSP Junior Web Developer.
   </li>
 </ul>
 
